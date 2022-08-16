@@ -1,15 +1,17 @@
 # Dominic DeGeorge's resume.
 
 ## Employment History
-Farm Work
+- Farm Work
+- Machanic
 
 ## Education History
-Booth Middle School
-Mcintosh Highschool 
+- J.C. Booth Middle School
+- Mcintosh Highschool 
 
 ## Hobbies
-
+- Fourwheelers
+- Flips
 
 ## Extracaricular
-Wrestling
-Golf
+- Wrestling
+- Golf
