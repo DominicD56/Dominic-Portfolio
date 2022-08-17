@@ -11,6 +11,7 @@
 ## Hobbies
 - Fourwheelers
 - Flips
+- Working out
 
 ## Extracaricular
 - Wrestling
