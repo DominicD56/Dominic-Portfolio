@@ -16,3 +16,7 @@
 ## Extracaricular
 - Wrestling
 - Golf
+
+## Typing
+- Keys learned
+  - J, F, Space, U, R, K, D, E, I
