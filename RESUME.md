@@ -19,4 +19,6 @@
 
 ## Typing
 - Keys learned
-  - J, F, Space, U, R, K, D, E, I
+  - J, F, Space, U, R, K, D, E, I, C, G, N
+- Typing speed
+  - 34 wpm
