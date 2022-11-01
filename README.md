@@ -1,5 +1,5 @@
 # Dominic-Portfolio
-Hello, my name is Dominic, this is my portfolio.
+Hello, my name is Dominic, this is my portfolio. We are using GitHub.
 [Mciontosh High School](https://www.fcboe.org/mhs)
 
 ## Contents
